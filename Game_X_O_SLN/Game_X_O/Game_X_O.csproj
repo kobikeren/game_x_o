@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="GameBoard.cs" />
     <Compile Include="Player.cs" />
+    <Compile Include="PlayerAuto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
